@@ -1,3 +1,9 @@
+## Development Version Features:
+
+Changes from the prior version are listed below:
+
+- Improved documentation of how to update the extension once you've begun using it
+
 ## `v 1.1.0` Features
 
 Changes from the prior version are listed below:
