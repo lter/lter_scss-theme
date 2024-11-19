@@ -2,7 +2,10 @@
 
 Changes from the prior version are listed below:
 
+## `v 1.2.0` Features
+
 - Improved documentation of how to update the extension once you've begun using it
+- Made navbar/footer different colors in both themes
 
 ## `v 1.1.0` Features
 
