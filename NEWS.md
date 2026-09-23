@@ -1,6 +1,8 @@
-## Development Version Features:
+## `v 1.3.0` Featutres
 
-Changes from the prior version are listed below:
+- Improves contrast of tabset panel heading/text in dark mode
+- Makes footer text cover full width
+- Clarifies SCSS rule-specific comments
 
 ## `v 1.2.0` Features
 
