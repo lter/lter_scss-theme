@@ -1,4 +1,10 @@
-## `v 1.3.0` Featutres
+## Development Version Features
+
+Changes will be listed below as they are made:
+
+- None (yet)
+
+## `v 1.3.0` Features
 
 - Improves contrast of tabset panel heading/text in dark mode
 - Makes footer text cover full width
