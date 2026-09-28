@@ -2,7 +2,7 @@
 
 Changes will be listed below as they are made:
 
-- None (yet)
+- Improves contrast for callout blocks
 
 ## `v 1.3.0` Features
 
